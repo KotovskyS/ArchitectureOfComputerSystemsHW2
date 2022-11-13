@@ -235,10 +235,10 @@ void counter(char *s, int len, int *a, int *A){
 
 Пример работы с разными входными данными:
 
-![img](screenshot7.png)
-![img](screenshot8.png)
-![img](screenshot9.png)
-![img](screenshot10.png)
+![img](Screenshot7.png)
+![img](Screenshot8.png)
+![img](Screenshot9.png)
+![img](Screenshot10.png)
 
 
 Финальная версия программы сохранена в 8.c
